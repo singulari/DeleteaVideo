@@ -1,2 +1,0 @@
-# DeleteaVideo
-Created with CodeSandbox
